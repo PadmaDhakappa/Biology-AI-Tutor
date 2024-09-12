@@ -1,0 +1,7 @@
+python-docx
+qdrant-client
+langchainhub
+docx2txt
+openai==0.28
+
+
