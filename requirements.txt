@@ -3,5 +3,8 @@ qdrant-client
 langchainhub
 docx2txt
 openai==0.28
+streamlit
+pandas
+openpyxl
 
 
